@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "938378162040",
+    "firebase_url": "https://love-quotes-8035c.firebaseio.com",
+    "project_id": "love-quotes-8035c",
+    "storage_bucket": "love-quotes-8035c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938378162040:android:6d566243767ca7f1cc628d",
+        "android_client_info": {
+          "package_name": "com.wcreation.loveee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938378162040-p3r7ngo2fbn3golpcfvbms6rai7gt636.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcreation.loveee",
+            "certificate_hash": "f73168a3c865b89a83ff29153af8fb21dc395f41"
+          }
+        },
+        {
+          "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdUPNKktaZKI8DAtXk0Kbrg4kyLPC7sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938378162040:android:31bfbe92567669c8cc628d",
+        "android_client_info": {
+          "package_name": "com.wcreation.lovemessagequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938378162040-muvq6aq7t5cvipf1mfk6e306msb3uafv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcreation.lovemessagequotes",
+            "certificate_hash": "f73168a3c865b89a83ff29153af8fb21dc395f41"
+          }
+        },
+        {
+          "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdUPNKktaZKI8DAtXk0Kbrg4kyLPC7sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938378162040:android:03e06e5a08bb2335cc628d",
+        "android_client_info": {
+          "package_name": "com.wcreation.lovequotesmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938378162040-nnqmr344m3rh8lg8gjbkg53fmh1jnrf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcreation.lovequotesmessage",
+            "certificate_hash": "f73168a3c865b89a83ff29153af8fb21dc395f41"
+          }
+        },
+        {
+          "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdUPNKktaZKI8DAtXk0Kbrg4kyLPC7sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938378162040:android:a9af1452ecbd02d0cc628d",
+        "android_client_info": {
+          "package_name": "com.wcreation.vadan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938378162040-am8bruphuoqspg4hhh68togrgvo8n65b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcreation.vadan",
+            "certificate_hash": "f73168a3c865b89a83ff29153af8fb21dc395f41"
+          }
+        },
+        {
+          "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdUPNKktaZKI8DAtXk0Kbrg4kyLPC7sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938378162040-533fguaaq4tu18t7b279c9tllr2bivt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/actionRateUs"
+        android:orderInCategory="100"
+        android:title="Rate Us"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/actionShareApp"
+        android:orderInCategory="100"
+        android:title="Share App"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/actionAnotherAps"
+        android:orderInCategory="100"
+        android:title="W Creation Apps"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/actionPrivacy"
+        android:orderInCategory="100"
+        android:title="Privacy Policy"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/actionAboutUs"
+        android:orderInCategory="100"
+        android:title="About Us"
+        app:showAsAction="never"/>
+
+</menu>

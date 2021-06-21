@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center">
+
+
+    <TextView
+        android:id="@+id/txtClose"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:text="X"
+        android:layout_marginRight="10dp"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:textColor="#000"
+        android:gravity="center"
+        android:background="@drawable/circle_text"/>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:background="@drawable/love"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="If You have any doubt please\nsend us a mail"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:textColor="#000"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Thanks For Joining Us."
+            android:layout_gravity="center"
+            android:textColor="#000"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="infowcreationapps@gmail.com"
+            android:layout_gravity="center"
+            android:textColor="#000"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="wcreationmarketing@gmail.com"
+            android:layout_gravity="center"
+            android:textColor="#000"
+            android:gravity="center"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Powered By W Creation"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:textColor="#000"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"/>
+
+
+    </RelativeLayout>
+
+
+
+    </LinearLayout>
